@@ -1,11 +1,15 @@
 # NEWS-DECK  
 
-## ScreenShots
+## ScreenShots 
 
 | 1 | 2 | 3 |
 | --- | --- | --- |
-| ![Welcome_Screen](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676958.jpg) | ![Home_Feed](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676947.jpg) | ![categories_swipe](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676953.jpg) |
+| ![Welcome_Screen](
+https://user-images.githubusercontent.com/61679890/132261273-2079d142-8aad-49be-9b73-5a15b1d7065f.mp4) | ![Home_Feed](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676958.jpg) | ![categories_swipe](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676947.jpg) |
 
+| 4 | 5 | 6 |
+| --- | --- | --- |
+| ![Welcome_Screen](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676953.jpg) | ![Home_Feed](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676951.jpg) | ![categories_swipe](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630960274645.jpg) |
 
 
 
