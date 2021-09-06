@@ -1,6 +1,5 @@
 ![App Logo](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/app_icon.png)
 
-
 ### Project Overview
 
 The goal is to create a News Feed app that gives a user regularly updated news from the internet 
