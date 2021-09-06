@@ -1,3 +1,4 @@
+[![Android App](https://img.shields.io/badge/Android%20Arsenal-News-Deck-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/1125)
 ![App Logo](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/icons8-shortcuts-192.png)
 
 ### Project Overview
