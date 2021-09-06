@@ -1,7 +1,7 @@
 ### Project Overview
 
-The goal is to create a News Feed app which gives a user regularly-updated news from the internet 
-related to a particular topic, person, or location.You can search for the news directly as well.
+The goal is to create a News Feed app that gives a user regularly updated news from the internet 
+related to a particular topic, person, or location. You can search for the news directly as well.
 
 
 ### API Key Note
@@ -18,3 +18,12 @@ Go to the file named `ApiClient.java` and insert the your baseUrl from 'News.Api
    
   private static final String BASE_URL = "Your Base Url Here";
 ```
+
+### Demo
+
+
+
+
+
+
+
