@@ -1,13 +1,10 @@
-<div style="text-align:center"><img src="https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/icons8-shortcuts-192.png" /></div>
-                                                                   # NEWS-DECK  
+# NEWS-DECK  
 
-## Demo
-https://user-images.githubusercontent.com/61679890/132259897-cac83109-eb72-4020-b692-7d1b64d2c896.mp4
+## ScreenShots
 
-
-
-
-https://user-images.githubusercontent.com/61679890/132260086-4eb80dfe-55a0-421a-bbaa-fa0a976f5956.mp4
+| 1 | 2 | 3 |
+| --- | --- | --- |
+| ![Welcome_Screen](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676958.jpg) | ![Home_Feed](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676947.jpg) | ![categories_swipe](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676953.jpg) |
 
 
 
