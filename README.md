@@ -37,7 +37,9 @@ Go to the file named `ApiClient.java` and insert the your baseUrl from 'News.Api
 - [ ] Integrated Room Persistence Library to list offline data in the event of no internet connection.
 
 
-### ScreenShots
+### Demo 
+https://user-images.githubusercontent.com/61679890/132259563-a1290650-19eb-4283-b831-43ade2de3c9e.mp4
+
 
 
 
