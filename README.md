@@ -1,11 +1,9 @@
 <h1 align="center">
   <img src="https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/icons8-shortcuts-192.png" width="136" alt="icon">
-  <p align="center">
   This app uses NewsAPI to get various sources and each source can provide major headlines.
   It uses Retrofit 2 to fetch news sources and news headlines from the API and displays in a RecyclerView.
   Using Framents for creating different catogries and fetching the API with category filter.
   Also this app allows to search articles on the whatever Keyword they want
-  </p>
 </h1>
 
 
