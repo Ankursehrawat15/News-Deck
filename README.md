@@ -7,7 +7,7 @@
   Using Framents for creating different catogries and fetching the API with category filter.
   Also this app allows to search articles on the whatever Keyword they want*
   
- - - - -
+ - - - 
 &nbsp;
 &nbsp;
 &nbsp;
