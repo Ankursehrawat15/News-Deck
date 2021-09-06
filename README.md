@@ -2,12 +2,16 @@
   <img src="https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/icons8-shortcuts-192.png" width="136" alt="icon">
 </h1>
 
-  This app uses NewsAPI to get various sources and each source can provide major headlines.
+  *This app uses NewsAPI to get various sources and each source can provide major headlines.
   It uses Retrofit 2 to fetch news sources and news headlines from the API and displays in a RecyclerView.
   Using Framents for creating different catogries and fetching the API with category filter.
-  Also this app allows to search articles on the whatever Keyword they want
+  Also this app allows to search articles on the whatever Keyword they want*
+  
  - - - -
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## ScreenShots 
  - - - -
 
@@ -20,14 +24,15 @@
 | --- | --- | --- |
 | ![Welcome_Screen](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676953.jpg) | ![Home_Feed](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676951.jpg) | ![categories_swipe](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630960274645.jpg) |
 
+ - - - -
 
-
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## Project Overview
- - - - -
+
 
 The goal is to create a News Feed app that gives a user regularly updated news from the internet 
 related to a particular topic, person, or location. You can search for the news directly as well.
@@ -47,9 +52,14 @@ Go to the file named `ApiClient.java` and insert the your baseUrl from 'News.Api
 ```
   private static final String BASE_URL = "Your Base Url Here";
 ```
+ - - - -
+ &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## ToDo List
- - - - -
+
 
 - [x] Top Headlines,Sources are listed.
 - [x] Allowed users to switch between fragments using  ViewPager.
@@ -63,6 +73,11 @@ Go to the file named `ApiClient.java` and insert the your baseUrl from 'News.Api
 - [ ] Implement Firebase and Firestore to send push notifications.
 - [ ] Integrated Room Persistence Library to list offline data in the event of no internet connection.
 
+ - - - -
+ 
+ ## Authors
+
+- [@AnkurSehrawat15](https://github.com/Ankursehrawat15)
 
 
 
