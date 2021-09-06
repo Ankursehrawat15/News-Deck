@@ -1,3 +1,6 @@
+![App Logo](https://github.com/Ankursehrawat15/News-Deck/blob/master/app/src/main/res/drawable/app_icon.png)
+
+
 ### Project Overview
 
 The goal is to create a News Feed app that gives a user regularly updated news from the internet 
@@ -19,7 +22,10 @@ Go to the file named `ApiClient.java` and insert the your baseUrl from 'News.Api
   private static final String BASE_URL = "Your Base Url Here";
 ```
 
-### Demo
+### ScreenShots
+
+
+
 
 
 
