@@ -2,11 +2,9 @@
 
 ## ScreenShots 
 
-
-
 | 1 | 2 | 3 |
 | --- | --- | --- |
-| ![Welcome_Screen](https://user-images.githubusercontent.com/61679890/132261518-9ff179a9-66ce-4818-b505-ee6abddd7216.gif) | ![Home_Feed](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676958.jpg) | ![categories_swipe](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676947.jpg) |
+| ![Welcome_Screen](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676961.jpg) | ![Home_Feed](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676958.jpg) | ![categories_swipe](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676947.jpg) |
 
 
 | 4 | 5 | 6 |
