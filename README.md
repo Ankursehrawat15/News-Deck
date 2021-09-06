@@ -6,9 +6,10 @@
   It uses Retrofit 2 to fetch news sources and news headlines from the API and displays in a RecyclerView.
   Using Framents for creating different catogries and fetching the API with category filter.
   Also this app allows to search articles on the whatever Keyword they want
-
+ - - - -
 
 ## ScreenShots 
+ - - - -
 
 | 1 | 2 | 3 |
 | --- | --- | --- |
@@ -24,13 +25,16 @@
 
 
 
+
 ## Project Overview
+ - - - -
 
 The goal is to create a News Feed app that gives a user regularly updated news from the internet 
 related to a particular topic, person, or location. You can search for the news directly as well.
 
 
 ## API Key Note
+ - - - -
 You need to insert your API key.
 Go to the package named `Fragments` and insert the your Api key from 'News.Api'.
 This needs to be done in all the fragments java files.
@@ -45,6 +49,7 @@ Go to the file named `ApiClient.java` and insert the your baseUrl from 'News.Api
 ```
 
 ## ToDo List
+ - - - -
 
 - [x] Top Headlines,Sources are listed.
 - [x] Allowed users to switch between fragments using  ViewPager.
