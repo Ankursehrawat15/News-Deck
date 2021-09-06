@@ -13,7 +13,7 @@
 &nbsp;
 &nbsp;
 
-- [DEMO_OF_THE_APP](https://drive.google.com/file/d/1CD77196JXB8ht9uCLHH0jOBBvPeZ-fSv/view?usp=sharing)
+- DEMO OF THE APP [CLICK_HERE](https://drive.google.com/file/d/1CD77196JXB8ht9uCLHH0jOBBvPeZ-fSv/view?usp=sharing)
 
 
 
