@@ -1,21 +1,8 @@
-# NEWS-DECK  <div style="text-align:center"><img src="https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/icons8-shortcuts-192.png" /></div>
+<div style="text-align:center"><img src="https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/icons8-shortcuts-192.png" /></div>
+                                                                   # NEWS-DECK  
 
 ## Demo
 https://user-images.githubusercontent.com/61679890/132259897-cac83109-eb72-4020-b692-7d1b64d2c896.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
