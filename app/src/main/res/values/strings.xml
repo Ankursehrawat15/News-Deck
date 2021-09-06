@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">News-Deck</string>
+    <string name="header">NEWS-DECK</string>
+    <string name="search">Search</string>
+    <string name="button">Button</string>
+    <string name="article_title">TITLE</string>
+    <string name="article_source">Source</string>
+    <string name="article_date">Date</string>
+    <string name="science">Science</string>
+    <string name="health">Health</string>
+    <string name="sports">Sports</string>
+    <string name="home">Home</string>
+    <string name="technology">Technology</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="article_description">Description</string>
+    <string name="splashtitle">News-Deck</string>
+    <string name="content">Content</string>
+    <string name="sub_description">Sub Description</string>
+    <string name="full_article_button">Read Full Article</string>
+    <string name="welocome_screen">Continue</string>
+</resources>
