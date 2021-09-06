@@ -7,13 +7,13 @@
   Using Framents for creating different catogries and fetching the API with category filter.
   Also this app allows to search articles on the whatever Keyword they want*
   
- - 
+
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 ## ScreenShots 
- - 
+
 
 | 1 | 2 | 3 |
 | --- | --- | --- |
@@ -24,7 +24,7 @@
 | --- | --- | --- |
 | ![Welcome_Screen](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676953.jpg) | ![Home_Feed](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676951.jpg) | ![categories_swipe](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630960274645.jpg) |
 
- - 
+
 
 &nbsp;
 &nbsp;
@@ -52,7 +52,7 @@ Go to the file named `ApiClient.java` and insert the your baseUrl from 'News.Api
 ```
   private static final String BASE_URL = "Your Base Url Here";
 ```
- - 
+
  &nbsp;
 &nbsp;
 &nbsp;
@@ -73,7 +73,7 @@ Go to the file named `ApiClient.java` and insert the your baseUrl from 'News.Api
 - [ ] Implement Firebase and Firestore to send push notifications.
 - [ ] Integrated Room Persistence Library to list offline data in the event of no internet connection.
 
- - 
+
  
  ## Authors
 
