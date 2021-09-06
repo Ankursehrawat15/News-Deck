@@ -21,6 +21,21 @@ Go to the file named `ApiClient.java` and insert the your baseUrl from 'News.Api
   private static final String BASE_URL = "Your Base Url Here";
 ```
 
+# ToDo List
+
+- [x] Top Headlines,Sources are listed.
+- [x] Allowed users to switch between fragments using  ViewPager.
+- [x] Added Preferences Screen to display diverse news according to user's selection.
+- [x] Implemented Custom News UI to list news from selected news source which takes place in Sources section.
+- [x] Implemented Search feature forHome section and thus user can search any news article in the app.
+- [x] Performed UI tests and passed successfully.
+- [x] Implement Filter feature for Sources section and thus user can filter results.
+- [x] Added shorts ie which displays the article with more description about the news and content as well.
+- [ ] Add Day/Night Mode.
+- [ ] Implement Firebase and Firestore to send push notifications.
+- [ ] Integrated Room Persistence Library to list offline data in the event of no internet connection.
+
+
 ### ScreenShots
 
 
