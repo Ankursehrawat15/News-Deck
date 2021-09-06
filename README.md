@@ -1,4 +1,4 @@
-![App Logo](https://github.com/Ankursehrawat15/News-Deck/blob/master/app/src/main/res/drawable/app_icon1.png)
+![App Logo](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/icons8-shortcuts-192.png)
 
 ### Project Overview
 
