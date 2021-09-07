@@ -5,7 +5,8 @@
   *This app uses NewsAPI to get various sources and each source can provide major headlines.
   It uses Retrofit 2 to fetch news sources and news headlines from the API and displays in a RecyclerView.
   Using Framents for creating different catogries and fetching the API with category filter.
-  Also this app allows to search articles on the whatever Keyword searched in Home fragment*
+  Also this app allows to search articles on the whatever Keyword searched in Home fragment.
+  summarized form of articles has been provided with option of reading full article*
   
 
 &nbsp;
