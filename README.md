@@ -13,26 +13,14 @@
 &nbsp;
 &nbsp;
 &nbsp;
+## 📃 How App Works
 
-- DEMO OF THE APP [CLICK_HERE](https://drive.google.com/file/d/1CD77196JXB8ht9uCLHH0jOBBvPeZ-fSv/view?usp=sharing)
-
-
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-## ScreenShots 
+[Watch How App Works](https://drive.google.com/file/d/1CD77196JXB8ht9uCLHH0jOBBvPeZ-fSv/view?usp=sharing)
 
 
-| 1 | 2 | 3 |
-| --- | --- | --- |
-| ![Welcome_Screen](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676961.jpg) | ![Home_Feed](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676958.jpg) | ![categories_swipe](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676947.jpg) |
-
-
-| 4 | 5 | 6 |
-| --- | --- | --- |
-| ![Welcome_Screen](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676953.jpg) | ![Home_Feed](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630959676951.jpg) | ![categories_swipe](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/1630960274645.jpg) |
+## ✨ Screenshots
+![News Deck App](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/image1.png)
+![News Deck App](https://github.com/Ankursehrawat15/News-Deck/blob/master/Documentation/image2.png)
 
 
 
