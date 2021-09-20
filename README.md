@@ -15,7 +15,7 @@
 &nbsp;
 ## 📃 How App Works
 
-[Watch How App Works](https://drive.google.com/file/d/1CD77196JXB8ht9uCLHH0jOBBvPeZ-fSv/view?usp=sharing)
+ [Watch How App Works](https://drive.google.com/file/d/1CD77196JXB8ht9uCLHH0jOBBvPeZ-fSv/view?usp=sharing)
 
 
 ## ✨ Screenshots
